@@ -45,15 +45,25 @@ loresmt2020/
 **The data Statistics are presented below (the Dev data are multilingual):
 -----------------------------------------------------
 Language_Name	Total_Sentences		Total_Words
+
 Bhojpuri (bho)	91131	1562465
+
 Hindi (hi)	473605	7092870
+
 Magahi (mag)	148606	2178424
+
 Russian (ru)	154589	1007029
+
 Hindi-Bhojpuri (dev)	500
+
 Hindi-Magahi (dev)	500
+
 Hindi-Russian (dev)	500
+
 Hindi-Bhojpuri (test)	500
+
 Hindi-Magahi (test)	500
+
 Hindi-Russian (tes)	500
 
 # Acknowledgments
@@ -87,7 +97,7 @@ Data available since: LoResMT Shared Task-2020
 License: CC BY-NC-SA 4.0
 =======
 Includes text: yes
-Genre: nonfiction news
+Genre: nonfiction news/subtitle/news
 Shared Task Organiser: Ojha, Atul Kr.; Malykh, Valentin; Karakanta, Alina; Liu, Chao-Hong
 Contact: shashwatup9k@gmail.com, valentin.malykh@phystech.edu
 ===============================================================================
