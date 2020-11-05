@@ -64,7 +64,7 @@ Hindi-Bhojpuri (test)	500
 
 Hindi-Magahi (test)	500
 
-Hindi-Russian (tes)	500
+Hindi-Russian (test)	500
 
 # Acknowledgments
 
