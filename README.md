@@ -83,11 +83,21 @@ year = 2020
 </pre>
 other papers/references about the LoResMT shared task are:
 <pre>
-@inproceedings{karakanta2019proceedings,
-  title={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
-  author={Karakanta, Alina and Ojha, Atul Kr and Liu, Chao-Hong and Washington, Jonathan and Oco, Nathaniel and Lakew, Surafel Melaku and Malykh, Valentin and Zhao, Xiaobing},
-  booktitle={Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages},
-  year={2019}
+@proceedings{ws-2019-technologies,
+    title = "Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages",
+    editor = "Karakanta, Alina  and
+      Ojha, Atul Kr.  and
+      Liu, Chao-Hong  and
+      Washington, Jonathan  and
+      Oco, Nathaniel  and
+      Lakew, Surafel Melaku  and
+      Malykh, Valentin  and
+      Zhao, Xiaobing",
+    month = aug,
+    year = "2019",
+    address = "Dublin, Ireland",
+    publisher = "European Association for Machine Translation",
+    url = "https://www.aclweb.org/anthology/W19-6800",
 }
 </pre>
 
