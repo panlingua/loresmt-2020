@@ -68,7 +68,7 @@ Hindi-Russian (test)	500
 
 # Acknowledgments
 
-We would like to thanks [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing Bhojpuri, Magahi and Hindi data. Magahi monolingual data was orgainally taken by [Alok,Deepak; Lahiri, Bornini and Kumar, Ritesh](http://lrec-conf.org/workshops/lrec2018/W11/pdf/26_W11.pdf). 
+We would like to thanks [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing Bhojpuri, Magahi and Hindi data. Magahi monolingual data was originally taken by [Alok,Deepak; Lahiri, Bornini and Kumar, Ritesh](http://lrec-conf.org/workshops/lrec2018/W11/pdf/26_W11.pdf). 
 
 ## References
 If you use this data, please cite:
