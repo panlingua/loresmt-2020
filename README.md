@@ -16,7 +16,7 @@ loresmt2020/
 │  ├─ mono.loresmt-2020.bho
 │  ├─ mono.hi/
 │  │  └─ mono.loresmt-2020.hi
-│     └─ mono.pmindia.v1.hi 	
+│     └─ [mono.pmindia.v1.hi](http://data.statmt.org/pmindia/v1/monolingual/pmindia.v1.hi.tgz)	
 │  ├─ mono.loresmt-2020.mag
 │  ├─ mono.loresmt-2020.ru
 │  
@@ -68,7 +68,7 @@ Hindi-Russian (test)	500
 
 # Acknowledgments
 
-We would like to thanks [Panlingua Language Processing LLP](http://panlingua.co.in/) for providing Bhojpuri, Magahi and Hindi data. Magahi monolingual data was originally taken by [Alok,Deepak; Lahiri, Bornini and Kumar, Ritesh](http://lrec-conf.org/workshops/lrec2018/W11/pdf/26_W11.pdf). 
+We would like to thanks [Alok,Deepak; Lahiri, Bornini and Kumar, Ritesh](http://lrec-conf.org/workshops/lrec2018/W11/pdf/26_W11.pdf) for sharing  Magahi monolingual data to [Panlingua Language Processing LLP](http://panlingua.co.in/). 
 
 ## References
 If you use this data, please cite:
@@ -110,5 +110,6 @@ Includes text: yes
 Genre: nonfiction news/subtitle/news
 Shared Task Organiser: Ojha, Atul Kr.; Malykh, Valentin; Karakanta, Alina; Liu, Chao-Hong
 Contact: shashwatup9k@gmail.com, valentin.malykh@phystech.edu
+Contributor/copyirght holder: Panlingua Language Porcessing LLP
 ===============================================================================
 </pre>
