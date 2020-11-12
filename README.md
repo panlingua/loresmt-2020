@@ -16,7 +16,7 @@ loresmt2020/
 │  ├─ mono.loresmt-2020.bho
 │  ├─ mono.hi/
 │  │  └─ mono.loresmt-2020.hi
-│     └─ [mono.pmindia.v1.hi](http://data.statmt.org/pmindia/v1/monolingual/pmindia.v1.hi.tgz)	
+│     └─ mono.pmindia.v1.hi( borrowed from http://data.statmt.org/pmindia/v1/monolingual/pmindia.v1.hi.tgz)	
 │  ├─ mono.loresmt-2020.mag
 │  ├─ mono.loresmt-2020.ru
 │  
