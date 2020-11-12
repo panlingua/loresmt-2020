@@ -110,6 +110,6 @@ Includes text: yes
 Genre: nonfiction news/subtitle/news
 Shared Task Organiser: Ojha, Atul Kr.; Malykh, Valentin; Karakanta, Alina; Liu, Chao-Hong
 Contact: shashwatup9k@gmail.com, valentin.malykh@phystech.edu
-Contributor/copyirght holder: Panlingua Language Porcessing LLP
+Contributor/&copy;holder: Panlingua Language Porcessing LLP
 ===============================================================================
 </pre>
