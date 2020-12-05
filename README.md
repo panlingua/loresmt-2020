@@ -74,11 +74,18 @@ We would like to thanks [Alok,Deepak; Lahiri, Bornini and Kumar, Ritesh](http://
 If you use this data, please cite:
 <pre>
 @inproceedings{ojha-etal-2020-findings,
-title = "Findings of the LoResMT 2020 Shared Task  on Zero-Shot for Low-Resource languages",
-    author = "Ojha, Atul Kr. and Malykh, Valentin  and Karakanta, Alina  and Liu, Chao-Hong",
-  booktitle = {"Proceedings of the 3rd Workshop on Technologies for MT of Low Resource Languages"},
-publisher = {Association for Computational Linguistics},
-year = 2020
+    title = "Findings of the {L}o{R}es{MT} 2020 Shared Task on Zero-Shot for Low-Resource languages",
+    author = "Ojha, Atul Kr.  and
+      Malykh, Valentin  and
+      Karakanta, Alina  and
+      Liu, Chao-Hong",
+    booktitle = "Proceedings of the 3rd Workshop on Technologies for MT of Low Resource Languages",
+    month = dec,
+    year = "2020",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.loresmt-1.4",
+    pages = "33--37",
 }
 </pre>
 other papers/references about the LoResMT shared task are:
